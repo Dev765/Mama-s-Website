@@ -1,0 +1,19 @@
+{
+  "name": "mamawebsite",
+  "version": "1.0.5",
+  "description": "mama's website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dev",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
